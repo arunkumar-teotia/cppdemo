@@ -1,5 +1,6 @@
 #include <iostream>  
 using namespace std;  
+// begin new main function
 int main() {  
   int n1=0,n2=1,n3,i,number;    
  cout<<"Enter the number of elements: ";    
